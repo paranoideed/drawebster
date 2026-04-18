@@ -1,0 +1,6 @@
+.idea
+.vscode
+.claude
+
+dist
+node_modules
