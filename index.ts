@@ -1,3 +1,6 @@
 export * from './operation';
 export * from './commit';
-export * from './build-snapshot';
+export * from './snapshot';
+export * from './changes';
+export * from './validators';
+export * from './handlers';

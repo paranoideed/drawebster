@@ -1,4 +1,4 @@
-import { KonvaLayerConfig, KonvaNodeConfig } from './build-snapshot';
+import { KonvaLayerConfig, KonvaNodeConfig } from './snapshot';
 
 export const Op = {
 	ADD: 'add',
