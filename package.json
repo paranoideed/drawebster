@@ -1,4 +1,7 @@
 {
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "name": "@paranoideed/drawebster",
   "version": "1.0.0",
   "main": "dist/index.js",
